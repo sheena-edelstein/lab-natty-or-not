@@ -16,5 +16,7 @@ Utilizei o "ChatGPT" para obter insights de possíveis títulos para o nosso e-b
 ## 🚀 Resultados
 A capa do e-book sintetiza perfeitamente o que será abordado no e-book: uma abordagem lúdica e única no que se refere ao aprendizado de C, ambientada no universo do jogo Minecraft. A paleta de cores é bem harmonizada visualmente, e acredito que terá uma originalidade competitiva.
 
+**[CAPA DO EBOOK](https://github.com/sheena-edelstein/lab-natty-or-not/blob/main/capa%20do%20ebook.png)**
+
 ## 💭 Reflexão (Opcional)
 Criar algo com IA é um dilema muito abordado atualmente, principalmente porque há uma linha tênue dividindo a inspiração do plágio. É interessante levantar discussões acerca do assunto para que se evite a exploração da IA em benefício próprio.
