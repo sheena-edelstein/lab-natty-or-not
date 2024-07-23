@@ -1,7 +1,7 @@
 # MINE C: CRAFTEANDO ALGORITMOS (CAPA)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+O meu projeto é uma capa de e-book que irá abordar os principais conceitos de Lógica de Programação e uma introdução à linguagem de programação C. A capa foi feita com inteligência artificial e editada manualmente para uma performance mais artesanal.
 
 ## 🤖 Tecnologias Utilizadas
 - PowerPoint para edição de imagens.
