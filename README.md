@@ -17,5 +17,5 @@
 
 **[CAPA DO EBOOK](https://github.com/sheena-edelstein/lab-natty-or-not/blob/main/capa%20do%20ebook.png)**
 
-## 💭 Reflexão (Opcional)
+## 💭 Reflexão
   Criar algo com IA é um dilema muito abordado atualmente, principalmente porque há uma linha tênue dividindo a inspiração do plágio. É interessante levantar discussões acerca do assunto para que se evite a exploração da IA em benefício próprio. A IA é uma ferramenta muito poderosa, mas não acredito que passará disso: uma ferramenta. Não um indivíduo autônomo capaz de roubar os empregos de pessoas qualificadas, mas uma ferramenta que possibilita aos profissionais ampliar seus horizontes.
