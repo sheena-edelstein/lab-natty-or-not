@@ -19,3 +19,22 @@
 
 ## 💭 Reflexão
   Criar algo com IA é um dilema muito abordado atualmente, principalmente porque há uma linha tênue dividindo a inspiração do plágio. É interessante levantar discussões acerca do assunto para que se evite a exploração da IA em benefício próprio. A IA é uma ferramenta muito poderosa, mas não acredito que passará disso: uma ferramenta. Não um indivíduo autônomo capaz de roubar os empregos de pessoas qualificadas, mas uma ferramenta que possibilita aos profissionais ampliar seus horizontes.
+
+  ## 👨‍💻 Desenvolvedora
+
+<p>
+    <img 
+      align=left 
+      margin=10 
+      width=80 
+      src="https://github.com/user-attachments/assets/163af32f-d0aa-4f98-8292-7a48d44cf524"
+    />
+    <p>&nbsp&nbsp&nbspMaria Clara Nascimento Silva<br>
+    &nbsp&nbsp&nbsp
+    <a href="https://github.com/sheena-edelstein">
+    GitHub</a>&nbsp;|&nbsp;
+    <a href="https://www.linkedin.com/in/maria-clara-nascimento-silva/">
+    LinkedIn</a>
+    </p>
+<br/><br/>
+<p>
